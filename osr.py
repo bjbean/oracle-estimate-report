@@ -168,7 +168,7 @@ if __name__ == "__main__":
     v_date=''
     v_option=''
     v_parameters = {}
-    v_conf=sys.path[0]+"/otom.conf"
+    v_conf=sys.path[0]+"/osr.conf"
     v_rpt_filename=''    
     v_analyze_user=''
     v_results = []

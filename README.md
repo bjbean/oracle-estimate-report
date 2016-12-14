@@ -5,6 +5,7 @@
 
 ### 2.使用方法
 #### 配置文件
+        osr.conf放在osr.py同一目录下。
         [database]
         server       = 127.0.0.1
         port         = 1521

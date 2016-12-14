@@ -4,6 +4,11 @@
 显示指定数据库的对象、资源、SQL等情况，并据此进行迁移分析判断工作。
 
 ### 2.使用方法
+#### 前提条件
+    - cx_Oracle模块
+    - pyh模块
+    - sqlparse模块
+    - python>=2.6
 #### 配置文件
         osr.conf放在osr.py同一目录下。
         [database]

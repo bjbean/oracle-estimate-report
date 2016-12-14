@@ -18,9 +18,11 @@
         table_max_size = n              #单表大小(单位MB)
         table_row_num  = n              #表的记录数
         long_sql_size  = n              #SQL语句过长标准(单位字符)
+        
 #### 调用方法
-        python osr.py                               #概要模式生成报告
+        python osr.py             #概要模式生成报告
         python otom.py –o detail  #详细模式生成报告
-(3).输出文件
-        在脚本同目录下，会生成HTML报告文件。
-
+        
+#### 输出文件
+     在脚本同目录下，会生成HTML报告文件。可参见demo.htm。
+     
